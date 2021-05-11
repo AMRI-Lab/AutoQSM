@@ -12,13 +12,15 @@ AutoQSM contains the following folders:
 
 code: It contains the source codes for training and testing.  
 
-model/vnet/model_final_1.hdf5: Weights of AutoQSM
+models/vnet/model_final_1.hdf5: Weights of AutoQSM.  
+
+test_data: one data for testing.   
 
 
 ###Usage  
 ##Test  
-You can run code/test.py to test the network performance on the provided data. The results will be in the 'results' directory    
-For test on your own data. You can use "data_predict" function as shown in test_demo.py files  
+You can run code/test.py to test the network performance on the provided data. The output will be in the 'results' directory    
+For test on your own data. You can use "data_predict" function as shown in test.py files  
 
 ##train  
 If you want to train AutoQSM by yourself. code/train.py can be used as a reference.  
