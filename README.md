@@ -1,5 +1,6 @@
 # AutoQSM  
-Source codes and trained networks described in the paper: Learning-based single-step quantitative susceptibility mapping reconstruction without brain extraction
+Source codes and trained networks described in the paper: Learning-based single-step quantitative susceptibility mapping reconstruction without brain extraction  
+Link: https://www.sciencedirect.com/science/article/pii/S1053811919306469  
 
 ###Environmental Requirements:  
 
